@@ -1,0 +1,38 @@
+{
+    "discord-moderation-bot": {
+        "features": {
+            "automated-message-filtering": {
+                "detect-delete-content.py": "",
+                "filter-spam-messages.py": "",
+                "warn-users.py": ""
+            },
+            "user-management": {
+                "kick-ban-users.py": "",
+                "assign-roles.py": "",
+                "track-user-behavior.py": ""
+            },
+            "customizable-commands": {
+                "set-custom-commands.py": "",
+                "request-information-commands.py": "",
+                "bot-responses-commands.py": ""
+            },
+            "logging-reporting": {
+                "log-moderation-actions.py": "",
+                "generate-user-reports.py": "",
+                "server-insights.py": ""
+            },
+            "scheduled-tasks": {
+                "automate-moderation-tasks.py": "",
+                "set-reminders.py": "",
+                "automate-repetitive-tasks.py": ""
+            }
+        },
+        "enhancements": {
+            "ml-algorithms.py": "",
+            "reputation-system.py": "",
+            "dashboard.py": "",
+            "server-backups.py": "",
+            "multi-server-support.py": ""
+        }
+    }
+}
